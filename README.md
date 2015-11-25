@@ -6,7 +6,7 @@ Prefer a [PDF]() version? // yet to be added //
 
 What about a CV displayed as a [JSON object](https://github.com/Mervodactyl/cvDrafts/blob/master/resumeObject.json)?
 
-How about my own creation of a single page [website](https://github.com/Mervodactyl/mePage) instead?
+How about my own creation of a [Single Page Website](https://github.com/Mervodactyl/mePage) instead?
 
 ![Desktop view of CV website](images/cv_screenshot.png "Desktop view of CV web page")
 
