@@ -133,7 +133,7 @@ _Jun 07 - Aug 07_
 ## Interests
 In my spare time you will find me writing readable, maintainable, tested code. You will also find me shamelessly feeding my book addiction, sketching on my art pad, mastering Wing Chun Kung Fu, or swinging from an Aerial hoop in Circus school. If given the tiniest opportunity, I will tell you why Digimon is superior to Pokémon.
 
-<img src="images/mac_and_me_v1.jpg" alt="Mervé sitting with her Mac" title=""An average night"" width="500" height="400">
+<img src="images/mac_and_me_v1.jpg" alt="Mervé sitting with her Mac" title="An average night" width="500" height="400">
 
 ## Contact Me
 * [Email](merve.silk@gmail.com)
