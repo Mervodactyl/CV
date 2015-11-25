@@ -1,12 +1,12 @@
 # A plethora of CV's...
 
-To begin with, please enjoy the standard Developer Format (written in [Markdown]() naturally)
+To begin with, please enjoy the standard Developer Format (written in [Markdown](https://github.com/Mervodactyl/cvDrafts/blob/master/cv.md) naturally)
 
-Prefer a [PDF]() version?
+Prefer a [PDF]() version? // yet to be added //
 
-What about a CV displayed as a [JSON object]()?
+What about a CV displayed as a [JSON object](https://github.com/Mervodactyl/cvDrafts/blob/master/resumeObject.json)?
 
-How about my own creation of a single page [website]() instead?
+How about my own creation of a single page [website](https://github.com/Mervodactyl/mePage) instead?
 
 ![Desktop view of CV website](images/cv_screenshot.png "Desktop view of CV web page")
 
