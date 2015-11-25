@@ -1,0 +1,302 @@
+{
+	"basics": {
+		"first_name": "Mervé",
+		"last_name": "Silk",
+		"label": "Junior Full-Stack Developer",
+		"alias": "Mervodactyl",
+		"picture": "https://avatars1.githubusercontent.com/u/8350165?v=3&s=460",
+		"email": "merve.silk@gmail.com",
+		"phone": "07984 474 882",
+		"summary": "I am a fast learning and determined individual. My experiences in planning engineering & project management has led me towards finding my true passion, Programming. As a result I took a huge risk and fully committed myself this past year in the pursuit of this career. It has been exhilarating, exhausting, frustrating and fun. To accelerate my learning process I enrolled at Makers Academy on their intensive programming and web development course. Having attended several coding meet ups/ conferences including EPIC FEL 2015, I’m now confidently looking for a Front End Developer role in a place where I will be encouraged to push myself and supported in my efforts to expand my skill set and become the best Developer I can be.",
+		"location": {
+			"address":"101 Blackstock Road",
+			"postalCode":"N4 2JW",
+			"region":"London",
+			"countryCode": "UK",
+		},
+		"profiles": [
+			{
+				"url": "https://github.com/Mervodactyl",
+				"username": "Mervodactyl",
+				"network": "GitHub",
+			},
+			{
+				"url": "https://www.linkedin.com/in/mervesilk",
+				"username": "Mervé Silk",
+				"network": "LinkedIn"
+			},
+			{
+				"url": "http://twitter.com/mervodactyl",
+				"username": "Mervodactyl",
+				"network": "Twitter"
+			}
+		]
+	},
+	"skills":[
+		{
+			"name": "Langauges",
+			"level": "Junior",
+			"keywords": [
+				"CSS3",
+				"Javascript"
+				"HTML5",
+				"Ruby",
+			]
+		},
+		{
+			"name": "Databases",
+			"level": "Junior",
+			"keywords": [
+				"SQL",
+				"Non-SQL",
+				"PostgreSQL",
+			]
+		},
+		{
+			"name": "Frameworks",
+			"level": "Junior",
+			"keywords": [
+				"SASS",
+				"JQuery"
+				"Bootstrap"
+				"React.js",
+				"Ruby on Rails",
+			]
+		},
+		{
+			"name": "Testing",
+			"level": "Junior",
+			"keywords": [
+				"TDD",
+				"OOD",
+				"BDD",
+				"RSpec",
+				"Jasmine",
+				"Capybara",
+				"Cucumber",
+				"Selenium"
+			]
+		},
+		{
+			"name": "Other",
+			"keywords": [
+				"Responsive Web Design",
+				"Vertical Rhythm",
+				"Cross Browser Compatability",
+				"Git",
+				"Pair Programming",
+				"Agile Development",
+				"Project Management"
+				"iOS Development",
+				"PhotoShop",
+			]
+		}
+		{
+			"name": "Personal Strengths",
+			"keywords": [
+				"Creative",
+				"Proactive",
+				"Excellent Communicator",
+			]
+		}
+	],
+	"education":[
+		{
+			"area": "Web Development",
+			"studyType": "Private Student",
+			"startDate": "2014-11-14",
+			"endDate": "present",
+			"focus": [
+					"CSS3 & HTML5",
+					"JavaScript",
+					"JQuery",
+				],
+			"codingEvents": [
+					"EPIC FEL 2015",
+					"Women Who Code",
+					"CodeBar",
+					"Makers Meets",
+					"Focus Groups",
+				]
+		},
+		{
+			"institution": "Makers Academy",
+			"area": "Web Development",
+			"studyType": "Student",
+			"startDate": "2014-08-15",
+			"endDate": "2014-11-05",
+			"courses": [
+				"Ruby and Ruby on Rails",
+				"Javascript and NodeJS",
+				"Test Driven Development",
+				"Agile Methodologies"
+			]
+		},
+		{
+			"institution": "Royal Holloway, University of London",
+			"area": "BA",
+			"studyType": "World History",
+			"gpa": "2:1",
+			"startDate": "2008-09-01",
+			"endDate": "2011-11-06",
+			"courses": [
+				"Plagerism & Original Thought.",
+				"The History of Terrorism",
+				"Teamwork & Private Research & Analysis"
+			]
+		},
+		{
+			"institution": "Wanstead Sixth Form",
+			"area": "AS-Level",
+			"studyType": "A-Levels",
+			"gpa": "3 A-Levels and 2 AS-Level",
+			"startDate": "2006-09-01",
+			"endDate": "2008-07-01",
+			"courses": [
+				"Eng Lang Lit Combined",
+				"Classical Civilisation",
+				"Geography",
+				"Psychology (AS-Level)"
+				"General Studies (AS-Level)"
+			]
+		},
+		{
+			"institution": "Caterham Secondary School",
+			"area": "Secondary",
+			"studyType": "GCSEs",
+			"gpa": "9 GCSEs",
+			"startDate": "2014-08-15",
+			"endDate": "2014-11-05",
+			"courses": [
+				"Eng (A)",
+				"Maths (B)",
+				"Art (A)",
+				"9 A-C's overall inc Extra Language Subject(Turkish)",
+			]
+		}
+	],
+	"employment":[
+		{
+			"company": "Makers Academy/ Private",
+			"position": "Student/ Junior Development",
+			"website": "http://www.makersacademy.com/",
+			"startDate": "2015-02-01",
+			"endDate": "2015-09-11",
+			"summary": "Highly selective 12 week Web Development programme, with interview exam based entry. Focused learning on best practices across the board including TDD and OOP, Front and Backend, Agile formats. Developed self reliance in the field of code. Decided to fully commit to code and spent the last year developing my new skill set and focusing on Front End Development - CSS3, HTML5, JavaScript etc",
+			"tldr": [
+				"Ref. EDUCATION section"
+				"CSS3 & HTML5"
+				"JQuery & React.js",
+				"Ruby and Ruby on Rails",
+				"Javascript and Node.js",
+				"Test Driven Development",
+				"Debugging and problem solving",
+				"Pair Programming",
+				"Version Control",
+				"Agile Methodologies"
+			]
+		},
+		{
+			"company": "CritterCorder",
+			"position": "Project Manager",
+			"website": "https://www.behance.net/gallery/11111993/CritterCorder-Branding",
+			"startDate": "2013-01-01",
+			"endDate": "2014-04-30",
+			"summary": "Lead meetings, make the final decision on project deadlines, deal with any major issues that occur. Understand how to adapt to StartUp company requirements. Co- ordinate entire project and ensure the campaign runs smoothly. Make the final decisions on all art related CritterCorder formats – Logo/ posters/ banners etc. Direct filming and editing of public videos. Standard StartUp enviroment, required to be involed in all areas as and when needed",
+			"tldr": [
+				"Project Management"
+				"Leadership & Management",
+				"Co-ordination of Arts Dep",
+				"Recruitment",
+				"Lead Meetings",
+				"Advertising",
+			]
+		},
+		{
+			"company": "Amber Projects",
+			"position": "Planning Engineering Assistant",
+			"website": "http://www.amberprojects.co.uk/",
+			"startDate": "2012-04-01",
+			"endDate": "2012-09-30",
+			"summary": "Use Primavera Oracle 6 Software to create and maintain Engineering Plans. Update Programme and Progress reporting, verifying consistency with previous reports to facilitate compatibility. Issue reports in support of the programmes reporting processes. Compiling, summarising, updating, and maintaining historical schedule data. Monitor and report on the critical path and schedule performance of the total project. Monitor risks and opportunities, and consequently develop mitigating actions. Prepare and or review schedule logic and duration changes in conjunction with the project team, to determine whether the schedules will adequately support the overall project schedule and comply with NEC contractual processes",
+			"tldr": [
+				"Oracle P6",
+				"Co-ordination of Engineering Plans",
+				"Critical Path Development",
+				"Schedule Logic",
+				"Safety Procedures",
+			]
+		},
+		{
+			"company": "Project Resource",
+			"position": "Recruitment Consultant",
+			"website": "http://www.project-resource.co.uk/",
+			"startDate": "2012-01-01",
+			"endDate": "2012-3-30",
+			"summary": "Development of my own business area through proactive marketing drives, structured selling and networking techniques. Management of the recruitment process from start to finish. Development of the existing database by adding new job seekers that add value to the database and our clients’ needs. Advertising of all job vacancies through various approved advertising mediums",
+			"tldr": [
+				"Develop Client Database",
+				"Various Advertising Mediums",
+				"Seek Vacancies",
+				"Increase Business Spectrum",
+			]
+		},
+		{
+			"company": "Barnardo's Childrens Charity",
+			"position": "Administrator & UK Co-ordinator",
+			"website": "http://www.barnardos.org.uk/",
+			"startDate": "2008-02-01",
+			"endDate": "2008-05-30",
+			"summary": "Promoted twice despite this being temp role (filing clerk -> receptionist -head admin). Responsible for interregional stock management and creative dept. admin needs (note taking, diary organisation, travel coordination etc). General Admin duties",
+			"tldr": [
+				"Twice Promoted",
+				"Inter-regional stock managemnet",
+				"Diary Organisation",
+				"General Admin duties",
+			]
+		},
+		{
+			"company": "Bart_Williams & Co. Solicitors",
+			"position": "Receptionist",
+			"website": "http://www.bwcsolicitors.co.uk/",
+			"startDate": "2007-10-01",
+			"endDate": "2008-01-30",
+			"summary": "Responsible for the completion of ‘Last Will and Testaments’ along with other documents of importance. Took the initiative to coordinate the company’s records into a more efficient system. General Admin duties",
+			"tldr": [
+				"Write up Documents",
+				"Reorganised Filing System",
+				"General Admin duties",
+			]
+		},
+		{
+			"company": "French Woods Performing Arts Camp",
+			"position": "Creative Arts Teacher & Counsellor",
+			"website": "http://frenchwoods.com/",
+			"startDate": "2007-06-01",
+			"endDate": "2007-08-30",
+			"summary": "Accountable for risk management whilst seeing to the development of practical Art techniques such as metal work, print screening, woodcraft etc. Lead and teach up to 21 class members at any time. Create a positive and creative learning environment for all ages",
+			"tldr": [
+				"Teach Art",
+				"Counsell Campers",
+				"Manage & Organise Classes",
+			]
+		},
+	],
+	"interests": [
+		{
+			"name": "Sports",
+			"keywords": [
+				"Wing Chun Kung Fu",
+				"Arial Hoop",
+			]
+		},
+		{
+			"name": "Other",
+			"keywords": [
+				"Coding Meetups",
+				"Digimon",
+				"Art",
+				"Libraries"
+			]
+		},
+	]
