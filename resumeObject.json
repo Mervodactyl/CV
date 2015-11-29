@@ -7,7 +7,9 @@
 		"picture": "https://avatars1.githubusercontent.com/u/8350165?v=3&s=460",
 		"email": "merve.silk@gmail.com",
 		"phone": "07984 474 882",
-		"summary": "I am a fast learning and determined individual. My experiences in planning engineering & project management has led me towards finding my true passion, Programming. As a result I took a huge risk and fully committed myself this past year in the pursuit of this career. It has been exhilarating, exhausting, frustrating and fun. To accelerate my learning process I enrolled at Makers Academy on their intensive programming and web development course. Having attended several coding meet ups/ conferences including EPIC FEL 2015, I’m now confidently looking for a Front End Developer role in a place where I will be encouraged to push myself and supported in my efforts to expand my skill set and become the best Developer I can be.",
+		"tagline": "A code making, D&D playing, cake eating, sea slug loving, Front End Developer with a penchant for creating apps and websites to look and feel the way you want them to.",
+		"summary": "I have a wide skill set including OOD, TDD, JavaScript, Sass, JSON, jQuery, agile practices, HTML, CSS, and more besides.
+		As proven by my Github, I am a fast learning and determined individual. Alongside my own private study, I enrolled at Makers Academy on their intensive programming and web development course. I’m currently looking for a Front End Developer role in a place where I will be able to apply my coding skills and encouraged to push my abilities further.",
 		"location": {
 			"address":"101 Blackstock Road",
 			"postalCode":"N4 2JW",
@@ -83,7 +85,7 @@
 				"Responsive Web Design",
 				"Vertical Rhythm",
 				"Cross Browser Compatability",
-				"Git",
+				"Version Control",
 				"Pair Programming",
 				"Agile Development",
 				"Project Management"
@@ -202,7 +204,7 @@
 			"website": "https://www.behance.net/gallery/11111993/CritterCorder-Branding",
 			"startDate": "2013-01-01",
 			"endDate": "2014-04-30",
-			"summary": "Lead meetings, make the final decision on project deadlines, deal with any major issues that occur. Understand how to adapt to StartUp company requirements. Co- ordinate entire project and ensure the campaign runs smoothly. Make the final decisions on all art related CritterCorder formats – Logo/ posters/ banners etc. Direct filming and editing of public videos. Standard StartUp enviroment, required to be involed in all areas as and when needed",
+			"summary": "Lead meetings, make the final decision on project deadlines, deal with any major issues that occur. Understand how to adapt to StartUp company requirements. Co- ordinate entire project and ensure the campaign runs smoothly. Make the final decisions on all art related CritterCorder formats – Logo/ posters/ banners etc. Direct filming and editing of public videos. Standard StartUp environment, required to be involved in all areas as and when needed",
 			"tldr": [
 				"Project Management"
 				"Leadership & Management",
