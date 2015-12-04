@@ -6,7 +6,7 @@ __aka:__ A code making, D&D playing, cake eating, sea slug loving, Front End Dev
 ## Web Development
 
 I have a wide skill set including OOD, TDD, JavaScript, Sass, JSON, jQuery, agile practices, HTML, CSS, and more besides.
-As proven by my Github, I am a fast learning and determined individual. Alongside my own private study, I enrolled at Makers Academy on their intensive programming and web development course. I’m currently looking for a Front End Developer role in a place where I will be able to apply my coding skills and encouraged to push my abilities further.
+As proven by my Github, I am a fast learning and determined individual. Alongside my own private study, I enrolled at Makers Academy on their intensive programming and web development course. I am currently looking for a Front End Developer role in a place where I will be able to apply my coding skills and encouraged to push my abilities further.
 
 ### *Projects*
 *Self developed exercises*
@@ -104,7 +104,7 @@ _Feb 08 - May 08_
 
 **Administrator & UK Co-ordinator**
 
-_Responsabilities_
+_Responsibilities_
 
 * Attend to all queries and interdepartmental meetings
 * Responsible for interregional stock management and creative dept admin needs (note taking, diary organisation, travel coordination etc)
@@ -120,7 +120,7 @@ _Oct 08 - Jan 08_
 
 **Receptionist**
 
-_Responsabilities_
+_Responsibilities_
 
 * Responsible for the completion of ‘Last Will and Testaments’ along with other documents of importance
 * Welcome guests and deal with their enquiries
@@ -136,7 +136,7 @@ _Jun 07 - Aug 07_
 
 **Creative Arts Teacher & Counsellor**
 
-_Responsabilities_
+_Responsibilities_
 
 * Accountable for risk management whilst seeing to the development of practical Art techniques such as metal work, print screening, woodcraft etc
 * Lead and teach up to 21 class members at any time
@@ -144,7 +144,7 @@ _Responsabilities_
 
 _Highlights_
 
-Helped coordinate the Art Department stage a surprise attack between the 'British Empire vs United States' counsellors on Independence day and spent the previous night chalking the streets in patriotic slogans and painting British flags everywhere en masse 
+Helped coordinate the Art Department stage a surprise attack between the 'British Empire vs United States' counsellors on Independence day and spent the previous night chalking the streets in patriotic slogans and painting British flags everywhere en masse
 
 ## Education
 ### Full Stack Graduate, [Makers Academy](http://www.makersacademy.com/) - ref. previous section
