@@ -29,7 +29,6 @@ As proven by my Github, I am a fast learning and determined individual. Alongsid
 * Version Control - Git
 * PhotoShop
 
-
 * Creative
 * Proactive
 * Excellent Communicator
