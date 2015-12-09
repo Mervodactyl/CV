@@ -19,17 +19,15 @@ As proven by my Github, I am a fast learning and determined individual. Alongsid
 
 ### *Skill Set*
 * TDD / OOP / BDD
-* Pair Programming, Agile Practices
+* Pair Programming, Kanban Boards, Agile Practices
 * Responsive Web Design, Cross Browser Compatibility
-* Vertical Rhythm
+* Vertical Rhythm, UX Design
 * HTML5, CSS3, JavaScript, Ruby
-* JQuery, Sass, BootStrap, ReactJS
+* JQuery, Sass, BootStrap, Node
 * Testing with Rspec, Jasmine, Capybara, Cucumber
 * SQL databases, JSON
-* Version Control - Git
+* Version Control with Git
 * PhotoShop
-
-
 * Creative
 * Proactive
 * Excellent Communicator
@@ -46,6 +44,10 @@ _Oct 14 - Present_
 * Map out and begin app development for Private clients: References available on Request
 * Give talks to schools both primary and secondary with the aim to encourage young minds into technical fields: [Tuffnel Primary](http://www.tufnellpark.islington.sch.uk/) / [Holloway Secondary](http://www.holloway.islington.sch.uk/)
 * Continued expansion and commitment to personal coding education
+
+_Highlights_
+
+Being able to see my work history on GitHub and see how far I've progressed in such a short time frame and helping others through volunteer teaching
 
 ### [CritterCorder](https://www.behance.net/gallery/11111993/CritterCorder-Branding)
 
