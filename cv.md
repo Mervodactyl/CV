@@ -1,12 +1,12 @@
 # Mervé Silk
 
-__aka:__ A code making, D&D playing, cake eating, sea slug loving, Front End Developer with a penchant for creating apps and websites to look and feel the way you want them to.
+__aka:__ A code making, D&D playing, cake eating, sea slug loving, Junior Developer with a penchant for creating apps and websites to look and feel the way you want them to.
 
 
 ## Web Development
 
-I have a wide skill set including OOD, TDD, JavaScript, Sass, JSON, jQuery, agile practices, HTML, CSS, and more besides.
-As proven by my Github, I am a fast learning and determined individual. Alongside my own private study, I enrolled at Makers Academy on their intensive programming and web development course. I am currently looking for a Front End Developer role in a place where I will be able to apply my coding skills and encouraged to push my abilities further.
+I have a wide skill set including OOD, TDD, JavaScript, Ruby, Sass, JSON, jQuery, agile practices, HTML, CSS, and more besides.
+As proven by my Github, I am a fast learning and determined individual. Alongside my own private study, I enrolled at Makers Academy on their intensive programming and web development course. I am currently looking for a Junior Developer role in a place where I will be able to apply my coding skills and encouraged to push my abilities further.
 
 ### *Projects*
 *Self developed exercises*
@@ -35,7 +35,7 @@ As proven by my Github, I am a fast learning and determined individual. Alongsid
 
 ## Experience
 
-### [Freelance Front End Dev](https://github.com/Mervodactyl?tab=repositories)
+### [Freelance Junior Dev](https://github.com/Mervodactyl?tab=repositories)
 
 _Oct 14 - Present_
 
@@ -47,7 +47,7 @@ _Oct 14 - Present_
 
 _Highlights_
 
-Being able to see my work history on GitHub and see how far I've progressed in such a short time frame and helping others through volunteer teaching
+Being able to view my work history on GitHub and see how far I've progressed in such a short time frame though helping others and my own tireless perseverance
 
 ### [CritterCorder](https://www.behance.net/gallery/11111993/CritterCorder-Branding)
 
