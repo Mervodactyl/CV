@@ -20,7 +20,7 @@ As proven by my Github, I am a fast learning and determined individual. Alongsid
 ### *Skill Set*
 * TDD / OOP / BDD
 * Pair Programming, Kanban Boards, Agile Practices
-* Responsive Web Design, Cross Browser Compatibility
+* Responsive Web Design & Cross Browser Compatibility
 * Vertical Rhythm, UX Design
 * HTML5, CSS3, JavaScript, Ruby
 * JQuery, Sass, BootStrap, Node
@@ -28,8 +28,8 @@ As proven by my Github, I am a fast learning and determined individual. Alongsid
 * SQL databases, JSON
 * Version Control with Git
 * PhotoShop
-* Creative
-* Proactive
+* Creative, Proactive
+* Project Management
 * Excellent Communicator
 * Works well under pressure
 
