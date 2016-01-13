@@ -5,7 +5,7 @@ __aka:__ A code making, D&D playing, cake eating, sea slug loving, Junior Develo
 
 ## Web Development
 
-I have a wide skill set including OOD, TDD, JavaScript, Ruby, Sass, JSON, jQuery, agile practices, HTML, CSS, and more besides. As proven by my Github, I am a fast learning and determined individual. Alongside my own private study, I enrolled at Makers Academy on their intensive programming and web development course. I am currently looking for a Junior Developer role in a place where I will be able to apply my coding skills and encouraged to push my abilities further.
+I have a wide skill set including OOD, TDD, JavaScript, Ruby, Sass, JSON, jQuery, agile practices, HTML, CSS, and more besides. As proven by my Github, I am a fast learning and determined individual. Alongside my own private study, I enrolled at Makers Academy on their intensive programming and web development course. I am currently looking for a Junior Developer role in a place where I will be able to apply my coding skills and encouraged to push my abilities further. For me, coding is exhilarating, exhausting, frustrating and fun.
 
 ### *Projects*
 *Self developed exercises*
