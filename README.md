@@ -8,7 +8,7 @@ What about a CV displayed as a [JSON object](https://github.com/Mervodactyl/cvDr
 
 How about my own creation of a [Single Page Website](https://github.com/Mervodactyl/mePage) instead?
 
-![Desktop view of CV website](images/cv_screenshot.png "Desktop view of CV web page")
+![Desktop view of CV website](images/desktopView.png "Desktop view of CV web page")
 
 Maybe you are after some project highlights first....
 
