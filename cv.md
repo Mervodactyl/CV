@@ -165,9 +165,7 @@ _Responsibilities_
 * Programming Bootcamp, Aug 14 - Sept 15
 * Highly selective 12 week Web Development programme, with interview exam based entry
 * Focused learning on best practices across the board including TDD and OOP, Front and Backend, agile formats
-* Developed self reliance in the field of code
-* Decided to fully commit to code and spent the last year developing new skill set and focusing on Front End Development - CSS3, HTML5, JavaScript etc
-* Continued expansion and commitment to personal coding education
+* Decided to fully commit to code and spent the last year developing new skill set 
 
 ### BA, 2:1, [Royal Holloway](https://www.royalholloway.ac.uk/home.aspx) University of London
 
