@@ -2,7 +2,7 @@
 
 To begin with, please enjoy the standard Developer Format (written in [Markdown](https://github.com/Mervodactyl/cvDrafts/blob/master/cv.md) naturally)
 
-Prefer a [PDF]() version? // yet to be added //
+Prefer a [PDF]() version?
 
 What about a CV displayed as a [JSON object](https://github.com/Mervodactyl/cvDrafts/blob/master/resumeObject.json)?
 

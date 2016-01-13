@@ -5,8 +5,7 @@ __aka:__ A code making, D&D playing, cake eating, sea slug loving, Junior Develo
 
 ## Web Development
 
-I have a wide skill set including OOD, TDD, JavaScript, Ruby, Sass, JSON, jQuery, agile practices, HTML, CSS, and more besides.
-As proven by my Github, I am a fast learning and determined individual. Alongside my own private study, I enrolled at Makers Academy on their intensive programming and web development course. I am currently looking for a Junior Developer role in a place where I will be able to apply my coding skills and encouraged to push my abilities further.
+I have a wide skill set including OOD, TDD, JavaScript, Ruby, Sass, JSON, jQuery, agile practices, HTML, CSS, and more besides. As proven by my Github, I am a fast learning and determined individual. Alongside my own private study, I enrolled at Makers Academy on their intensive programming and web development course. I am currently looking for a Junior Developer role in a place where I will be able to apply my coding skills and encouraged to push my abilities further.
 
 ### *Projects*
 *Self developed exercises*
@@ -18,20 +17,26 @@ As proven by my Github, I am a fast learning and determined individual. Alongsid
 |![Desktop view of website](images/thermoThumbnail.png "Desktop view of Thermostatic web page") |![Screen Shot of Web Page](images/rhythmThumbnail.png "Page View of Blakey repo Website")|![Desktop view of website](images/digiThumbnail.png "Desktop view of sassy Digimon web page")|
 
 ### *Skill Set*
-* TDD / OOP / BDD
-* Pair Programming, Kanban Boards, Agile Practices
-* Responsive Web Design & Cross Browser Compatibility
-* Vertical Rhythm, UX Design
-* HTML5, CSS3, JavaScript, Ruby
-* JQuery, Sass, BootStrap, Node
-* Testing with Rspec, Jasmine, Capybara, Cucumber
-* SQL databases, JSON
-* Version Control with Git
-* PhotoShop
-* Creative, Proactive
+* Semantic HTML5 & Accessibility
+* CSS & SASS
+* Visual Testing & QA
+* Ruby
+* JavaScript & JQuery
+* TDD & BDD
+* RSpec, Cucumber & Jasmine
+* Command Line (UNIX)
+* Version Control (Git)
+* Object-Oriented Programming
+* Relational Database Design
+* Bootstrap & WordPress
+* Photoshop
+* Typography
+* Pair Programming
+* Agile Practices
 * Project Management
-* Excellent Communicator
-* Works well under pressure
+* Creative
+* Proactive
+* Turkish (Fluent)
 
 ## Experience
 
@@ -39,21 +44,28 @@ As proven by my Github, I am a fast learning and determined individual. Alongsid
 
 _Oct 14 - Present_
 
-* Give consultancy advice to a multinational corporation on how to improve their website design and build and what steps they need to take: [Bora Plastics](http://www.boraplastik.com.tr/english)
-* Create a ticketing site for the established Burlesque dancer [Tabitha Taboo](http://www.tabithataboo.com/) and her event: [The Secret Drawing Room](https://github.com/Mervodactyl/TheSecretDrawingRoom)
-* Map out and begin app development for Private clients: References available on Request
-* Give talks to schools both primary and secondary with the aim to encourage young minds into technical fields: [Tuffnel Primary](http://www.tufnellpark.islington.sch.uk/) / [Holloway Secondary](http://www.holloway.islington.sch.uk/)
-* Continued expansion and commitment to personal coding education
-
 _Highlights_
 
-Being able to view my work history on GitHub and see how far I've progressed in such a short time frame though helping others and my own tireless perseverance
+Working as a Consultant to both a social enterprise campaign and multinational corporation, being able to view my work history on GitHub and see how far I've progressed in such a short time frame though helping others and my own tireless perseverance
+
+_Responsibilities_
+
+* Give consultancy advice to a multinational corporation on how to improve their website design and build and what steps they need to take: [Bora Plastics](http://www.boraplastik.com.tr/english) are now developing responsive design and improving their UI/UX
+* Create a ticketing site for the established Burlesque dancer [Tabitha Taboo](http://www.tabithataboo.com/) and her event: [The Secret Drawing Room](https://github.com/Mervodactyl/TheSecretDrawingRoom)
+* Give talks to schools both [Primary](http://www.tufnellpark.islington.sch.uk/) and [Secondary](http://www.holloway.islington.sch.uk/) about STEM careers, increased applications into technical fields this year as a result
+* Aid a social enterprise [campaign](http://hardedgesthestories.com/) who needed more flexibility with their site despite constraints, they are now following my recommendation and moving onto a more flexible hosting platform
+
+
 
 ### [CritterCorder](https://www.behance.net/gallery/11111993/CritterCorder-Branding)
 
 _Jan 13 - Mar 14_
 
 **Project Manager**
+
+_Highlights_
+
+Was instrumental in preventing a mass walk out by the Creative team during an ongoing interdepartmental struggle over the management stylings of the CEO. Single handedly renegotiated terms between divisions so that everyone felt satisfied with the result and stayed on until their original contracted length
 
 _Responsibilities_
 
@@ -62,15 +74,15 @@ _Responsibilities_
 * Make the final decisions on all art related CritterCorder formats – Logo/ posters/ banners etc. Direct filming and editing of public videos
 * Standard StartUp environment, required to be involved in all areas as and when needed
 
-_Highlights_
-
-Was instrumental in preventing a mass walk out by the Creative team during an ongoing interdepartmental struggle over the management stylings of the CEO. Single handedly renegotiated terms between divisions so that everyone felt satisfied with the result and stayed on until their original contracted length
-
 ### [Amber Projects](http://www.amberprojects.co.uk/)
 
 _April 12 - Sept 12_
 
 **Planning Engineering Assistant**
+
+_Highlights_
+
+Proved my level of professionalism and as a result was granted permission to assist on sections of Europe's largest water treatment engineering project - Thames Water Beckton Treatment Works
 
 _Responsibilities_
 
@@ -79,15 +91,15 @@ _Responsibilities_
 * Issue reports in support of the programmes reporting processes. Compiling, summarising, updating, and maintaining historical schedule data. Monitor and report on the critical path and schedule performance of the total project
 * Monitor risks and opportunities, and consequently develop mitigating actions Prepare and or review schedule logic and duration changes in conjunction with the project team, to determine whether the schedules will adequately support the overall project schedule and comply with NEC contractual processes
 
-_Highlights_
-
-Proved my level of professionalism and as a result was granted permission to assist on sections of Europe's largest water treatment engineering project - Thames Water Beckton Treatment Works
-
 ### [Project Resource](http://www.project-resource.co.uk/)
 
 _Jan 12 - Mar 12_
 
 **Recruitment Consultant**
+
+_Highlights_
+
+Within my second month I was able to reestablish a broken relationship with a top tier client who had previously refused to work with Project Resource again, and place them back on the work books for permanent employment opportunities
 
 _Responsibilities_
 
@@ -96,15 +108,15 @@ _Responsibilities_
 * Development of the existing database by adding new job seekers that add value to the database and our clients’ needs
 * Advertising of all job vacancies through various approved advertising mediums
 
-_Highlights_
-
-Within my second month I was able to reestablish a broken relationship with a top tier client who had previously refused to work with Project Resource again, and place them back on the work books for permanent employment opportunities
-
 ### [Barnardo's Childrens Charity](http://www.barnardos.org.uk/)
 
 _Feb 08 - May 08_
 
 **Administrator & UK Co-ordinator**
+
+_Highlights_
+
+Despite this being temp role I was promoted twice within the short time I was there (Filing Clerk -> Receptionist -> Head Administrator)
 
 _Responsibilities_
 
@@ -112,15 +124,15 @@ _Responsibilities_
 * Responsible for interregional stock management and creative dept admin needs (note taking, diary organisation, travel coordination etc)
 * General Admin duties
 
-_Highlights_
-
-Despite this being temp role I was promoted twice within the short time I was there (Filing Clerk -> Receptionist -> Head Administrator)
-
 ### [Bart_Williams & Co. Solicitors](http://www.bwcsolicitors.co.uk/)
 
 _Oct 08 - Jan 08_
 
 **Receptionist**
+
+_Highlights_
+
+The organisation of their filing system was a mess so I took the initiative to coordinate the company’s records into a more efficient system
 
 _Responsibilities_
 
@@ -128,15 +140,15 @@ _Responsibilities_
 * Welcome guests and deal with their enquiries
 * General Admin duties
 
-_Highlights_
-
-The organisation of their filing system was a mess so I took the initiative to coordinate the company’s records into a more efficient system
-
 ### [French Woods Performing Arts Camp](http://frenchwoods.com/)
 
 _Jun 07 - Aug 07_
 
 **Creative Arts Teacher & Counsellor**
+
+_Highlights_
+
+Helped coordinate the Art Department stage a surprise attack between the 'British Empire vs United States' counsellors on Independence day and spent the previous night chalking the streets in patriotic slogans and painting British flags everywhere en masse
 
 _Responsibilities_
 
@@ -144,9 +156,6 @@ _Responsibilities_
 * Lead and teach up to 21 class members at any time
 * Create a positive and creative learning environment for all ages
 
-_Highlights_
-
-Helped coordinate the Art Department stage a surprise attack between the 'British Empire vs United States' counsellors on Independence day and spent the previous night chalking the streets in patriotic slogans and painting British flags everywhere en masse
 
 ## Education
 ### Full Stack Graduate, [Makers Academy](http://www.makersacademy.com/) - ref. previous section
